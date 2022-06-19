@@ -50,7 +50,7 @@ m | 여러줄 일치 (muliline)
 --|--
 ^ab | 줄(line)시작에 있는 ab와 일치
 ab$ | 줄(line)끈에 있는 ab와 일치
-
+--|--
 . | 임의의 한 문자와 일치
 a&verbar;b \ a또는b와 일치
 ab? | b가 없거나 b와 일치
